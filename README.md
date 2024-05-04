@@ -52,4 +52,4 @@ In recent years, I've been exploring new technologies and frameworks. These are 
 
 ### Thanks for visiting!&nbsp;<img src="assets/images/Partying Face.png" width="25">
 
-###Check out my repos <img src="assets/images2/Sparkling Heart.png" width="25">
+##### Check out my repos <img src="assets/images2/Sparkling Heart.png" width="25">
