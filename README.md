@@ -1,6 +1,6 @@
 # Hi There, Welcome to my Profile! <img src="assets/images/Waving Hand Medium-Light Skin Tone.png" width="29px">
 
-My name is **Sanskruti**, and I am a prefinal year student majoring in Computer Science. I'm an agile learner, avid reader and a budding coder. My enthusiasm for learning drives me to continuously explore new technologies &  push my limits to expand my skill set. I am actively seeking opportunities to apply my knowledge and skills in a professional environment. My IKIGAI lies at the cross section of **code, books, cats and communication**.  <img src="assets/images2/Two Hearts.png" width="20px">
+My name is **Sanskruti**, and I am a final year student majoring in Computer Science. I'm an agile learner, avid reader and a budding coder. My enthusiasm for learning drives me to continuously explore new technologies &  push my limits to expand my skill set. I am actively seeking opportunities to apply my knowledge and skills in a professional environment. My IKIGAI lies at the cross section of **code, books, cats and communication**.  <img src="assets/images2/Two Hearts.png" width="20px">
 
 I am currently fascinated by **machine learning** and **web development**. I am dedicated to constantly learning and mastering these domains, always striving to stay at the forefront of new technologies. <img src="assets/images2/Hammer and Wrench.png" width="20px">
 
