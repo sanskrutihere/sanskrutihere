@@ -14,14 +14,6 @@ My IKIGAI?
 **Let's hack together!**  <img src="assets/images/Robot.png" width="20px">
 
 
-## What I Do 🚀 
-
-- Build production-ready backend systems & RESTful APIs  
-- Design modular, scalable architectures  
-- Apply data structures & algorithms in real-world systems  
-- Experiment with applied machine learning models  
-- Optimize performance and improve system reliability  
-
 ## Core Strengths 🧠 
 
 - Data Structures & Algorithms  
@@ -61,7 +53,7 @@ My IKIGAI?
 
 - <img src="assets/images/School.png" width="25"> **Usha Mittal Institute of Technology, SNDT University**:
   - **Bachelor of Technology Degree in Computer Science and Technology**
-    - December, 2021 - 2025 | CGPA: 9.0/10.0
+    - December, 2021 - 2025 | CGPA: 9.0 / 10.0
 
 
 ## Things I like to do in my free time <img src="assets/images/T-Rex.png" width="30">
@@ -73,12 +65,14 @@ My IKIGAI?
 - <img src="assets/images/Cross Mark.png" width="15"> **Sleeping** `/ᐠ_ ꞈ _ᐟ\ᶻ 𝗓 𐰁` i'm insomniac `(you might find me reading instead)`
 - <img src="assets/images2/Bookmark.png" width="25"/> Currently Reading: **As Good as Dead** by Holly Jackson, **Uzumaki (Manga)** by Junji Ito<br/>
 
+ 
 ## Want to Connect w me? <img src="assets/images/Heart on Fire.png" width="30">
 
 <img src="assets/images/Folded Hands Light Skin Tone.png" width="25"/>&nbsp;[LinkedIn ](https://www.linkedin.com/in/sanskrutib/)(Let's Connect!) <br/>
 <img src="assets/images/Star.png" width="25"/>&nbsp;[Follow me on GitHub](https://github.com/sanskrutihere)<br/>
 <img src="assets/images2/Envelope with Arrow.png" width="25"/> Email me: sanskrutib.dev@gmail.com<br/>
 <img src="assets/images/Musical Notes.png" width="25">&nbsp;[Follow me on Spotify](https://open.spotify.com/user/0miq78no324b1m38h1lkytpm3?si=a01d3a58b00a4c68)<br/>
+
 
 ### Thanks for visiting!&nbsp;<img src="assets/images/Partying Face.png" width="25">
 
