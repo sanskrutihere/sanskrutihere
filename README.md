@@ -1,37 +1,67 @@
-# Hi There, Welcome to my Profile! <img src="assets/images/Waving Hand Medium-Light Skin Tone.png" width="29px">
+# Hi There, I'm Sanskruti! <img src="assets/images/Waving Hand Medium-Light Skin Tone.png" width="29px">
 
-My name is **Sanskruti**, and I am a final year student majoring in Computer Science. I'm an agile learner, avid reader and a budding coder. My enthusiasm for learning drives me to continuously explore new technologies &  push my limits to expand my skill set. I am actively seeking opportunities to apply my knowledge and skills in a professional environment. My IKIGAI lies at the cross section of **code, books, cats and communication**.  <img src="assets/images2/Two Hearts.png" width="20px">
+**Software Engineer @ Deloitte India**  
+Backend Systems | Distributed Architecture | Java Fullstack Development 
 
-I am currently fascinated by **machine learning** and **web development**. I am dedicated to constantly learning and mastering these domains, always striving to stay at the forefront of new technologies. <img src="assets/images2/Hammer and Wrench.png" width="20px">
+I design and build scalable backend systems with a strong foundation in computer science fundamentals. Deeply interested in ML, GenAI, Deep Learning and Neural Networks. 
+Currently working at Deloitte, where I contribute to production-grade applications and continuously refine my expertise in system design, performance optimization, and clean architecture.
+
+I am dedicated to constantly learning, always striving to stay at the forefront of new technologies. <img src="assets/images2/Hammer and Wrench.png" width="20px">
+
+My IKIGAI?
+> Code. Books. Cats. Coffee. Philosophy. <img src="assets/images2/Two Hearts.png" width="20px">
 
 **Let's hack together!**  <img src="assets/images/Robot.png" width="20px">
 
 
-## Skills <img src="assets/images/Rocket.png" width="30">
+## What I Do 🚀 
 
-In recent years, I've been exploring new technologies and frameworks. These are the ones I've learned so far.
-| **#** | **Language** | **Proficiency** |
-| :------------------------------------------------------------------------------------------------------------: | :----------: | :-------------------------------------------------------------------: |
-|<img src="assets/icons/StackOverflow.svg" width="25">|`CTRL+C & CTRL+V`|<img src="assets/images/Fire.png" alt="Mastery" width="25">|
-|<a href="https://www.python.org/"><img src="assets/icons/Python.svg" width="25"></a> | `Python`|<img src="assets/images/Flexed Biceps Light Skin Tone.png" alt="Advance" width="25"> |
-| <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="assets/icons/CPP.svg" width="25"></a> | `C++` | <img src="assets/images/Nerd Face.png" alt="Intermediate" width="25"> |
-| <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="assets/icons/Java.svg" width="25"></a> | `Java` | <img src="assets/images/Nerd Face.png" alt="Intermediate" width="25"> |
-| <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="assets/icons/C.svg" width="25"></a> | `C` | <img src="assets/images/Nerd Face.png" alt="Intermediate" width="25"> |
-|<a href="https://www.javascript.com/"><img src="assets/icons/JavaScript.svg" width="25"></a>|`JavaScript` |<img src="assets/images/Nerd Face.png" alt="Intermediate" width="25">|
-|<a href="https://tailwindcss.com/"><img src="assets/icons/TailwindCSS.svg" width="25"></a>| `TailwindCSS`| <img src="assets/images/Nerd Face.png" alt="Intermediate" width="25">|
-|<a href="https://reactjs.org/"><img src="assets/icons/React.svg" width="25"></a> | `ReactJS` | <img src="assets/images/Nerd Face.png" alt="Intermediate" width="25">|
-| <a href="https://nextjs.org/"><img src="assets/icons/NextJS.svg" width="25"></a>|`NextJS` |<img src="assets/images/Nerd Face.png" alt="Intermediate" width="25">|
-|<a href="https://nodejs.org/"><img src="assets/icons/NodeJS.svg" width="25"></a> | `NodeJS`| <img src="assets/images/Confused Face.png" alt="Beginner" width="25">|
-| <a href="https://expressjs.com/"><img src="assets/icons/ExpressJS.svg" width="25"></a>| `ExpressJS`| <img src="assets/images/Confused Face.png" alt="Beginner" width="25">|
-|<a href="https://www.djangoproject.com/"><img src="assets/icons/Django.svg" width="25"></a>|`Django`|<img src="assets/images/Confused Face.png" alt="Beginner" width="25">|
+- Build production-ready backend systems & RESTful APIs  
+- Design modular, scalable architectures  
+- Apply data structures & algorithms in real-world systems  
+- Experiment with applied machine learning models  
+- Optimize performance and improve system reliability  
 
-> Printed "Hello, World!" in `10 other languesges`.
+## Core Strengths 🧠 
+
+- Data Structures & Algorithms  
+- Object-Oriented Design  
+- Database Design & Query Optimization  
+- REST API Design  
+- Concurrency & Multithreading Basics  
+- Clean Code & SOLID Principles  
+
+
+## Tech Stack 🛠 
+
+### Languages
+`Python` | `Java` | `C++` | `JavaScript` | `C`
+
+### Backend
+`Spring Boot` | `Node.js` | `Express` | `Django`
+
+### Frontend
+`React` | `Next.js` | `TailwindCSS`
+
+### Databases
+`MySQL` | `PostgreSQL`| `MongoDB`
+
+### Dev & Infrastructure
+`Git` | `Docker` | `Linux` | `Postman` | `VS Code` | `Jupyter Notebook` | `Google Colab` | `Figma` | `Draw.io` | `AWS`| `Swift`
+
+
+## Current Focus 📌 
+
+- Distributed Systems & Microservices  
+- System Design (HLD & LLD)  
+- Backend performance optimization  
+- Containerization & deployment strategies 
 
 ## Education <img src="assets/images2/Graduation Cap.png" width="30">
 
 - <img src="assets/images/School.png" width="25"> **Usha Mittal Institute of Technology, SNDT University**:
-  - **Completing Bachelor of Technology Degree in Computer Science and Technology**
-    - December, 2021 - Present
+  - **Bachelor of Technology Degree in Computer Science and Technology**
+    - December, 2021 - 2025 | CGPA: 9.0/10.0
 
 
 ## Things I like to do in my free time <img src="assets/images/T-Rex.png" width="30">
@@ -53,3 +83,11 @@ In recent years, I've been exploring new technologies and frameworks. These are 
 ### Thanks for visiting!&nbsp;<img src="assets/images/Partying Face.png" width="25">
 
 ##### Check out my repos <img src="assets/images2/Sparkling Heart.png" width="25">
+
+
+> Still learning. Still building. Still evolving.
+
+
+
+
+
