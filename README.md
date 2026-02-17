@@ -18,9 +18,7 @@ My IKIGAI?
 
 - Data Structures & Algorithms  
 - Object-Oriented Design  
-- Database Design & Query Optimization  
-- REST API Design  
-- Concurrency & Multithreading Basics  
+- Database Design & Query Optimization    
 - Clean Code & SOLID Principles  
 
 
